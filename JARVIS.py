@@ -22,9 +22,7 @@ import datetime
 import psutil
 import webbrowser
 import vlc
-import json
 import requests
-import time
 import wikipedia
 
 r = sr.Recognizer()
